@@ -275,6 +275,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-https://github.com/Doflamingo20/mobile/assets/130146099/e191464f-31f5-4110-99bc-b2343f1e175c
+
+https://github.com/firlimaharani/tugas-UTS/assets/130529482/91530ff8-3361-47e4-ab47-9b32a265f4d3
+
+
 
 
